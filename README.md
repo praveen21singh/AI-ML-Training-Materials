@@ -13,7 +13,6 @@ Join me on my journey to decode the secrets of data, unravel the mysteries of AI
 #CodeIsCanvas #AIAdventures #DataDrivenDreams
 #PythonicProwess #MachineLearningMagic
 
-https://about.me/praveen.singh
 <!---
 praveen21singh/praveen21singh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
