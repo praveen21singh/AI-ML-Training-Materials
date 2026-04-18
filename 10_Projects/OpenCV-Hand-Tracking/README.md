@@ -1,4 +1,4 @@
-# OPencv Hand-Tracking
+# OpenCV Hand-Tracking
 
 ## About The Project
 
