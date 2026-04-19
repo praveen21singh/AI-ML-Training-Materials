@@ -4,14 +4,7 @@
 AI/ML Trainer with 10+ years of experience in IT and AI training.  
 Specialized in Python, Data Science, Machine Learning, and Deep Learning.
 
-I have delivered training to B.Tech, MCA, and BCA students at:
-- Chandigarh University
-- Rayat Bahra University
-- Punjab University
-- Amity University Gurgaon  
-(Under Samsung Innovation Campus Program)
-
----
+I have delivered training to B.Tech, MCA, and BCA students at various University / Colleges.
 
 ## 🎯 What This Repository Contains
 This repository is a structured learning path I use to train students from basics to advanced AI concepts.
